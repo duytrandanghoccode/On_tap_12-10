@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|c:\\users\\admin\\desktop\\\u00F4n_t\u1EADp_12.10\\4.8\\4.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|solutionrelative:4.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|solutionrelative:4.8\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|solutionrelative:4.8\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F218013-5022-416C-BBF8-053859082C85}|4.8\\4.8.csproj|solutionrelative:4.8\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\Program.cs",
+              "RelativeDocumentMoniker": "4.8\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\Program.cs",
+              "RelativeToolTip": "4.8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:24:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\FormStudent.cs",
+              "RelativeDocumentMoniker": "4.8\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\FormStudent.cs",
+              "RelativeToolTip": "4.8\\FormStudent.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAqwFMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:23:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\FormMain.cs",
+              "RelativeDocumentMoniker": "4.8\\FormMain.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\FormMain.cs",
+              "RelativeToolTip": "4.8\\FormMain.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:23:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\Student.cs",
+              "RelativeDocumentMoniker": "4.8\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00D4N_T\u1EACP_12.10\\4.8\\4.8\\Student.cs",
+              "RelativeToolTip": "4.8\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:21:49.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\4.6.AVATAR_CSV.csproj.AssemblyReference.cache
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\Bai4_6_QuanLySinhVien.Form1.resources
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\_4._6.AVATAR_CSV.Properties.Resources.resources
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\4.6.AVATAR_CSV.csproj.GenerateResource.cache
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\4.6.AVATAR_CSV.csproj.CoreCompileInputs.cache
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\bin\Debug\4.6.AVATAR_CSV.exe.config
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\bin\Debug\4.6.AVATAR_CSV.exe
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\bin\Debug\4.6.AVATAR_CSV.pdb
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\4.6.AVATAR_CSV.exe
+D:\học bạ 5 kì - duy\4.6.AVATAR_CSV\4.6.AVATAR_CSV\obj\Debug\4.6.AVATAR_CSV.pdb
